@@ -4,7 +4,7 @@ Bash-based MultiTool Vulnerability Scanner | Nmap, SQLMap, Nikto, Sublist3r &amp
 
 A powerful Bash-based vulnerability scanner that wraps multiple open-source security tools into one interactive, colorful, and efficient terminal script. Designed for ethical hackers, students, and cybersecurity professionals to conduct quick assessments and reconnaissance.
 
-> 🎓 Built as part of a cybersecurity demonstration project by Deepani V S | `deep.code`
+> 🎓 Built as part of a cybersecurity demonstration project by Deepani V S | `deepfull-code`
 
 ---
 
@@ -23,7 +23,7 @@ A powerful Bash-based vulnerability scanner that wraps multiple open-source secu
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/yourusername/elite-vulnerability-scanner.git
+git clone https://github.com/Deepfall-code/elite-vulnerability-scanner.git
 cd elite-vulnerability-scanner
 chmod +x elitevulnscan.sh
 ./elitevulnscan.sh
